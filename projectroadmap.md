@@ -1,8 +1,8 @@
-*Sprint 1
+* Sprint 1
 
-Created the respository "Alexa should I water my plant"
+    Created the respository "Alexa should I water my plant"
 
-Updated the description on readme.md 
+    Updated the description on readme.md 
 
-Lenny explored existing python code :
-Bailey explored existing python code : 
+    Lenny explored existing python code :
+    Bailey explored existing python code : 
