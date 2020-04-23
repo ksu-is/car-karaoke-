@@ -52,7 +52,7 @@ atexit.register(exit_handler)
 
 
 # Turn water on every 30 minutes for 10 seconds
-schedule.every(30).minutes.do(threaded, water, forLength=10)
+#schedule.every(30).minutes.do(threaded, water, forLength=10)
 
 # Other scheduling examples
 #schedule.every().hour.do(threaded, light, forLength=300)
@@ -62,9 +62,11 @@ schedule.every(30).minutes.do(threaded, water, forLength=10)
 #schedule.every().wednesday.at("13:15").do(threaded, light, forLength=30)
 
 
-while True:
-    schedule.run_pending()
-    time.sleep(1)
+
+
+#while True:
+ #   schedule.run_pending()
+  #  time.sleep(1)
 
 
     
@@ -85,12 +87,3 @@ coloredlogs.DEFAULT_LEVEL_STYLES = {
 	'debug': {'color': 'green'},
 	'warning': {'color': 'yellow'}
 }
-
-def alexa_plant(trigger):
-
-	if light.is_turnon():
-	 	print("you should water them now")
- 	if light.is_turnoff():
-		print("Dont't worry about it")
-
-		
