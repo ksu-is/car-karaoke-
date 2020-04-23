@@ -15,11 +15,12 @@
           *Bailey explored existing python code : https://github.com/alexa-pi/AlexaPi/blob/master/src/main.py
 
 * Sprint 2 
-    Each person should have committed at least 6 code changes of significant size (X)
+   
+   Each person should have committed at least 6 code changes of significant size (X)
     
           *Lenny refered to the existing code for plant sensor using raspberrry pi and updated it 
           *Bailey refered to the existing code for alexa and updated it 
           
-    need to be tracking your progress on planned and emerging tasks in your projectroadmap.md document.(X)
+   Track your progress on planned and emerging tasks in your projectroadmap.md document.(X)
     
 * Sprint 3
