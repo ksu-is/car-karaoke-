@@ -18,8 +18,8 @@
    
    Each person should have committed at least 6 code changes of significant size (X)
     
-          *Lenny refered to the existing code for plant sensor using raspberrry pi and updated it 
-          *Bailey refered to the existing code for alexa and updated it 
+          *Lenny referred to the existing code for plant sensor using raspberrry pi and updated it 
+          *Bailey referred to the existing code for alexa and updated it 
           
    Track your progress on planned and emerging tasks in your projectroadmap.md document.(X)
     
