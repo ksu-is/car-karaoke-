@@ -62,8 +62,6 @@ schedule.every(30).minutes.do(threaded, water, forLength=10)
 #schedule.every().wednesday.at("13:15").do(threaded, light, forLength=30)
 
 
-
-
 while True:
     schedule.run_pending()
     time.sleep(1)
@@ -87,3 +85,12 @@ coloredlogs.DEFAULT_LEVEL_STYLES = {
 	'debug': {'color': 'green'},
 	'warning': {'color': 'yellow'}
 }
+
+def alexa_plant(trigger):
+
+	if light.is_turnon():
+	 	print("you should water them now")
+ 	if light.is_turnoff():
+		print("Dont't worry about it")
+
+		
