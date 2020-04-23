@@ -5,6 +5,7 @@
     Updated the description on readme.md 
 
     Lenny explored existing python code : https://github.com/fnords/plant_mon/blob/master/sensor.py
+    and https://github.com/HackerShackOfficial/Automated-Gardener (moisture measure and watering)
     Bailey explored existing python code : https://github.com/alexa-pi/AlexaPi/blob/master/src/main.py
 
 * Sprint 2 
