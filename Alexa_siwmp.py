@@ -37,5 +37,19 @@ if __name__ == "__main__":
     
     
  #This is code to send the data from raspberry pi to alexa
-
-
+#logging into alexa 
+logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s')
+coloredlogs.DEFAULT_FIELD_STYLES = {
+	'hostname': {'color': 'purple'},
+	'programname': {'color': 'cyan'},
+	'name': {'color': 'blue'},
+	'levelname': {'color': 'magenta', 'bold': True},
+	'asctime': {'color': 'green'}
+}
+coloredlogs.DEFAULT_LEVEL_STYLES = {
+	'info': {'color': 'blue'},
+	'critical': {'color': 'red', 'bold': True},
+	'error': {'color': 'red'},
+	'debug': {'color': 'green'},
+	'warning': {'color': 'yellow'}
+}
