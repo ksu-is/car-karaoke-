@@ -4,9 +4,9 @@
     
           *Created the respository "Alexa should I water my plant"  
       
-    Each person should have edited and committed changes in a readme.md file in their repository in our Github organization.       The commits should show in Github. 
+    Each person should have edited and committed changes in a readme.md file in their repository in our Github organization.       The commits should show in Github. (X)
             
-          *Lenny and Bailey Committed changes on the description on readme.md (X)
+          *Lenny and Bailey Committed changes on the description on readme.md 
     
     Each person should have explored at least one existing Python code base related to their project to evaluate using it in       their project and submitted updates to the projectroadmap.md file explaining their findings. In evaluating your codebase,     you should have read the code and attempted to run it yourself. (X)
 
