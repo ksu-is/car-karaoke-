@@ -1,1 +1,2 @@
-
+Orginal code resources 
+Git+Plant sensor > github.com/fnords/plant_mon/blob/master/sensor.py
