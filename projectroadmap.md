@@ -11,9 +11,9 @@
     
     Each person should have explored at least one existing Python code base related to their project to evaluate using it in       their project and submitted updates to the projectroadmap.md file explaining their findings. In evaluating your codebase,     you should have read the code and attempted to run it yourself. (X)
 
-        *Lenny explored existing python code : https://github.com/fnords/plant_mon/blob/master/sensor.py
+     *Lenny explored existing python code : https://github.com/fnords/plant_mon/blob/master/sensor.py
         and https://github.com/HackerShackOfficial/Automated-Gardener (moisture measure and watering)
-        *Bailey explored existing python code : https://github.com/alexa-pi/AlexaPi/blob/master/src/main.py
+     *Bailey explored existing python code : https://github.com/alexa-pi/AlexaPi/blob/master/src/main.py
 
 * Sprint 2 
     
