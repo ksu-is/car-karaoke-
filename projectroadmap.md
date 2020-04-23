@@ -1,8 +1,5 @@
 * Sprint 1
-    Each person should have an approved project topic (Turn in Ex 6 and ensure you are listed completely in the Teams Projects     Spreadsheet). (X)
-    
-    Each person should have established a Github account and joined our class organization (KSU-IS) in Github by accepting the     invite email. (X)
-    
+
     Each person should also be associated with ownership of a code repository in our Github organization. If on a team, ensure     each has Owner or Maintainer Role. (X)
         *Created the respository "Alexa should I water my plant"  
       
@@ -16,9 +13,9 @@
      *Bailey explored existing python code : https://github.com/alexa-pi/AlexaPi/blob/master/src/main.py
 
 * Sprint 2 
+    Each person should have committed at least 6 code changes of significant size 
     
-    Lenny refered to the existing code for plant sensor using raspberrry pi and updated it 
- 
-    Bailey refered to the existing code for alexa and updated it 
+      *Lenny refered to the existing code for plant sensor using raspberrry pi and updated it 
+      *Bailey refered to the existing code for alexa and updated it 
     
 * Sprint 3
