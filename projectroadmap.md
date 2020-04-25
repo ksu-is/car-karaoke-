@@ -28,3 +28,6 @@
     Continue coding and refining and testing in Sprint 3 as in Sprint 2
     
     As project managers and communicators who span the gap between the business and the coders, we need to create ways to         communicate our projects quickly and accurately. - Create a powerpoint slide
+     
+           *lenny designed logo for name of the project and developers
+           *Bailey edited pictures and wrote the description of the project
