@@ -31,3 +31,7 @@
      
            *lenny designed logo for name of the project and developers
            *Bailey edited pictures and wrote the description of the project
+
+* Final  presentation
+
+     Upload a recorded presentation with demonstration of the code 
