@@ -1,0 +1,40 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "humidity fetcher",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "humidity",
+                    "slots": [],
+                    "samples": [
+                        "what is the humidity",
+                        "how humid is it",
+                        "should i water the plants",
+                        "is it time to water the plants",
+                        "is it time to water my plants",
+                        "should i water my plants",
+                        "tell me the humidity",
+                        "what's the humidity"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
